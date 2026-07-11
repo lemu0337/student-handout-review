@@ -1,0 +1,1332 @@
+[
+  {
+    "batch": "B001",
+    "review_id": "R0001",
+    "url": "https://lemu0337.github.io/student-handout-review/R0001.png",
+    "sha256": "18ac3f005995778c87032cb39a19df2709ddda74a52fd5715127403b9bf6c0d2",
+    "bytes": 3404343
+  },
+  {
+    "batch": "B001",
+    "review_id": "R0002",
+    "url": "https://lemu0337.github.io/student-handout-review/R0002.png",
+    "sha256": "1e2802beaf7a028dc8626b6b76b90a4cc706fc5689876936a6e77a01a6955eff",
+    "bytes": 4453246
+  },
+  {
+    "batch": "B001",
+    "review_id": "R0003",
+    "url": "https://lemu0337.github.io/student-handout-review/R0003.png",
+    "sha256": "02f24ec64b1a528ed945c86297fa8993510fd4055779246abaa223b419704140",
+    "bytes": 3219253
+  },
+  {
+    "batch": "B001",
+    "review_id": "R0004",
+    "url": "https://lemu0337.github.io/student-handout-review/R0004.png",
+    "sha256": "bc4d308693e8156ea6b2f484f9c7ab33ea58b79e0192a3d2eb38f9d9b832c1b0",
+    "bytes": 3853458
+  },
+  {
+    "batch": "B001",
+    "review_id": "R0005",
+    "url": "https://lemu0337.github.io/student-handout-review/R0005.png",
+    "sha256": "039c8d278bbf4d08e923e3e2ccc7ecc43d3726b46d7769e067f00c1cc8278b4f",
+    "bytes": 4749971
+  },
+  {
+    "batch": "B001",
+    "review_id": "R0006",
+    "url": "https://lemu0337.github.io/student-handout-review/R0006.png",
+    "sha256": "14b7c676f6beb91576e67acc3f43bdbf815ef056b9fb0e2d3a019bff02829f16",
+    "bytes": 4632613
+  },
+  {
+    "batch": "B001",
+    "review_id": "R0007",
+    "url": "https://lemu0337.github.io/student-handout-review/R0007.png",
+    "sha256": "74ebb09372ed44308f1d76a8da298e3bfd6e748b4c8a3c0bdf440e1485dd9c92",
+    "bytes": 4304299
+  },
+  {
+    "batch": "B001",
+    "review_id": "R0008",
+    "url": "https://lemu0337.github.io/student-handout-review/R0008.png",
+    "sha256": "bcb23d244df926a6b39abc0d6710bb92a7e7fdd4d205e3e92f1bafae0a73a555",
+    "bytes": 2394597
+  },
+  {
+    "batch": "B001",
+    "review_id": "R0009",
+    "url": "https://lemu0337.github.io/student-handout-review/R0009.png",
+    "sha256": "080e12935a4a0bc58425490a5297b75adc94fa95de570d3f721a065f72389a83",
+    "bytes": 2780140
+  },
+  {
+    "batch": "B001",
+    "review_id": "R0010",
+    "url": "https://lemu0337.github.io/student-handout-review/R0010.png",
+    "sha256": "b269689f60c748e0a656ed5132814f39cffb8cd616e8eb0d6f6e0612eb388e7d",
+    "bytes": 2548229
+  },
+  {
+    "batch": "B002",
+    "review_id": "R0011",
+    "url": "https://lemu0337.github.io/student-handout-review/R0011.png",
+    "sha256": "50b0569ddd406e4624b9729b8b2c6c8cf8e49a220ab5c423843cdf4efdbc3a4f",
+    "bytes": 2926536
+  },
+  {
+    "batch": "B002",
+    "review_id": "R0012",
+    "url": "https://lemu0337.github.io/student-handout-review/R0012.png",
+    "sha256": "fb3d993ecbbb1f4ace53fa2d460de2417190ff0c6dcb95d9fc8d11645025bcb0",
+    "bytes": 3245170
+  },
+  {
+    "batch": "B002",
+    "review_id": "R0013",
+    "url": "https://lemu0337.github.io/student-handout-review/R0013.png",
+    "sha256": "667c8f062c58c06d208fd5e23d1c4388d096da3fbe21d37e472f6848cc0a56d7",
+    "bytes": 3643318
+  },
+  {
+    "batch": "B002",
+    "review_id": "R0014",
+    "url": "https://lemu0337.github.io/student-handout-review/R0014.png",
+    "sha256": "08899ccf0849273dc999b212b660cbe97f09e9f2b5abcfa17dc185f38d9b8263",
+    "bytes": 3264019
+  },
+  {
+    "batch": "B002",
+    "review_id": "R0015",
+    "url": "https://lemu0337.github.io/student-handout-review/R0015.png",
+    "sha256": "e75a44f3dc33b510114931726e0ab9f1cfc7df540cd8bc6d0416a2f1e93867f8",
+    "bytes": 4264761
+  },
+  {
+    "batch": "B002",
+    "review_id": "R0016",
+    "url": "https://lemu0337.github.io/student-handout-review/R0016.png",
+    "sha256": "4a8e29d6a55c12da303b996f69252d766992c4c7690650ad219cc64c7c011b44",
+    "bytes": 3769136
+  },
+  {
+    "batch": "B002",
+    "review_id": "R0017",
+    "url": "https://lemu0337.github.io/student-handout-review/R0017.png",
+    "sha256": "8415ec668ac44f17d2804afd1071aa4e7eacd89cd7796d90082ee494a149f703",
+    "bytes": 3736875
+  },
+  {
+    "batch": "B002",
+    "review_id": "R0018",
+    "url": "https://lemu0337.github.io/student-handout-review/R0018.png",
+    "sha256": "92f43fad685b5a27c57fe633e83e9f66d534347c5f43352c4768c6d63894782a",
+    "bytes": 3532606
+  },
+  {
+    "batch": "B002",
+    "review_id": "R0019",
+    "url": "https://lemu0337.github.io/student-handout-review/R0019.png",
+    "sha256": "0eddc62188464d1d5f5f66ba244ef9d2e7b9003c8ef643531482186376aa6602",
+    "bytes": 4021890
+  },
+  {
+    "batch": "B002",
+    "review_id": "R0020",
+    "url": "https://lemu0337.github.io/student-handout-review/R0020.png",
+    "sha256": "df0569173403f7d0041b6b12b936f59fb12f5378f2190813bb4f5ce5fd5e4447",
+    "bytes": 4204376
+  },
+  {
+    "batch": "B003",
+    "review_id": "R0021",
+    "url": "https://lemu0337.github.io/student-handout-review/R0021.png",
+    "sha256": "44b9d5c177ea7a7cbe37e33c99fab12086a7f2384cf3e3f76972bb336dea794f",
+    "bytes": 4492798
+  },
+  {
+    "batch": "B003",
+    "review_id": "R0022",
+    "url": "https://lemu0337.github.io/student-handout-review/R0022.png",
+    "sha256": "0ee2f8bb34aa8e72472edf26692d6deeb2d558262f746f02c6180910d1056154",
+    "bytes": 4105662
+  },
+  {
+    "batch": "B003",
+    "review_id": "R0023",
+    "url": "https://lemu0337.github.io/student-handout-review/R0023.png",
+    "sha256": "e7a9217b9787497f3d3f58cb030860d81ba45a4c9dbebf440260daae6438285d",
+    "bytes": 3604596
+  },
+  {
+    "batch": "B003",
+    "review_id": "R0024",
+    "url": "https://lemu0337.github.io/student-handout-review/R0024.png",
+    "sha256": "4edc4e4811c914e2eb638f128db0d1f5fe2215e84819ba98e9244e484637edda",
+    "bytes": 3459872
+  },
+  {
+    "batch": "B003",
+    "review_id": "R0025",
+    "url": "https://lemu0337.github.io/student-handout-review/R0025.png",
+    "sha256": "e699c084056a4ab5ef3de44915677cb0600f6949f615b1da260ca72ffc063194",
+    "bytes": 3763376
+  },
+  {
+    "batch": "B003",
+    "review_id": "R0026",
+    "url": "https://lemu0337.github.io/student-handout-review/R0026.png",
+    "sha256": "65b76646262070cf7c0ddae6c4f1ced3e12172c70a95df3c6cd77c81c8b05035",
+    "bytes": 3680543
+  },
+  {
+    "batch": "B003",
+    "review_id": "R0027",
+    "url": "https://lemu0337.github.io/student-handout-review/R0027.png",
+    "sha256": "c4136dba42fc7afd31e1f46ee651766aa786494fff6c00ea90699abb86499caf",
+    "bytes": 4102472
+  },
+  {
+    "batch": "B003",
+    "review_id": "R0028",
+    "url": "https://lemu0337.github.io/student-handout-review/R0028.png",
+    "sha256": "1f64ee3683fa82f7a607c638f2e1f85d41000fbd2a294a5c32f3e8dabcd590d9",
+    "bytes": 3689672
+  },
+  {
+    "batch": "B003",
+    "review_id": "R0029",
+    "url": "https://lemu0337.github.io/student-handout-review/R0029.png",
+    "sha256": "ef3272e1b1b71c63641a8389b168ef5b20a371b9447d93294173adc82366817d",
+    "bytes": 3524439
+  },
+  {
+    "batch": "B003",
+    "review_id": "R0030",
+    "url": "https://lemu0337.github.io/student-handout-review/R0030.png",
+    "sha256": "26acd5c4cf9b773b8735c96c0f80cf532f5f0480cb42135e5e5ab801fe9a8694",
+    "bytes": 2331643
+  },
+  {
+    "batch": "B004",
+    "review_id": "R0031",
+    "url": "https://lemu0337.github.io/student-handout-review/R0031.png",
+    "sha256": "600c5257fc2394135c54f77557d500b2984fffbbd0bab38f7153934b38ad5764",
+    "bytes": 3397577
+  },
+  {
+    "batch": "B004",
+    "review_id": "R0032",
+    "url": "https://lemu0337.github.io/student-handout-review/R0032.png",
+    "sha256": "7aabde4a4c64d3dac6ac71858c2a87f693d7841b6e1d6661240e42afbe31c297",
+    "bytes": 3997738
+  },
+  {
+    "batch": "B004",
+    "review_id": "R0033",
+    "url": "https://lemu0337.github.io/student-handout-review/R0033.png",
+    "sha256": "2293d441271d98d92947b28b278566527da3e6a0a77ce22954395f458a9b77ae",
+    "bytes": 2474040
+  },
+  {
+    "batch": "B004",
+    "review_id": "R0034",
+    "url": "https://lemu0337.github.io/student-handout-review/R0034.png",
+    "sha256": "5c987bbe7f8a2d5dc9521a6a3275f76c97356587255d49147d42b55b30f39e89",
+    "bytes": 2771119
+  },
+  {
+    "batch": "B004",
+    "review_id": "R0035",
+    "url": "https://lemu0337.github.io/student-handout-review/R0035.png",
+    "sha256": "8d30aeafc54849e08138e382ed163256052930bd7fed75d430d1971663eb78e8",
+    "bytes": 2795773
+  },
+  {
+    "batch": "B004",
+    "review_id": "R0036",
+    "url": "https://lemu0337.github.io/student-handout-review/R0036.png",
+    "sha256": "b729fee64e654c27ecc5400c3b48b6f4d8bbf02f038c94e4e9e4ced3cc2547dc",
+    "bytes": 3557084
+  },
+  {
+    "batch": "B004",
+    "review_id": "R0037",
+    "url": "https://lemu0337.github.io/student-handout-review/R0037.png",
+    "sha256": "c465ae6163edcd4cf76edc9fac4425af27130179627ac14d272aac8f2197e6a0",
+    "bytes": 2249311
+  },
+  {
+    "batch": "B004",
+    "review_id": "R0038",
+    "url": "https://lemu0337.github.io/student-handout-review/R0038.png",
+    "sha256": "f7a66e6436babe30664edf32b6c627c9b6b40ce00d3132515adafe54c2965de2",
+    "bytes": 2781435
+  },
+  {
+    "batch": "B004",
+    "review_id": "R0039",
+    "url": "https://lemu0337.github.io/student-handout-review/R0039.png",
+    "sha256": "edecb089db9248016ee644cbe047f04b8e3286ac3d4e5f6ceffe453925d57b51",
+    "bytes": 3063731
+  },
+  {
+    "batch": "B004",
+    "review_id": "R0040",
+    "url": "https://lemu0337.github.io/student-handout-review/R0040.png",
+    "sha256": "042cfec32a3d1fefa430294241c58170eab9bfbc96b504a18e839d5bdc64a768",
+    "bytes": 3756236
+  },
+  {
+    "batch": "B005",
+    "review_id": "R0041",
+    "url": "https://lemu0337.github.io/student-handout-review/R0041.png",
+    "sha256": "faeff8f35f51fc7430f43558eeaab9b092212336753fe060bbb2859fe961f53b",
+    "bytes": 3670846
+  },
+  {
+    "batch": "B005",
+    "review_id": "R0042",
+    "url": "https://lemu0337.github.io/student-handout-review/R0042.png",
+    "sha256": "ab45c9d61f123c8160aeb709783d4a91103ff584a556064f2befd510104d97fe",
+    "bytes": 3206670
+  },
+  {
+    "batch": "B005",
+    "review_id": "R0043",
+    "url": "https://lemu0337.github.io/student-handout-review/R0043.png",
+    "sha256": "06e188a950503b215a9fcfccf44bd1078992728b65693d7fe30a91165801dad4",
+    "bytes": 2192342
+  },
+  {
+    "batch": "B005",
+    "review_id": "R0044",
+    "url": "https://lemu0337.github.io/student-handout-review/R0044.png",
+    "sha256": "19fea847e464e116d6415b86f4c46babe9185ba7e0349d8eaa2ea62ca1839b7a",
+    "bytes": 3361016
+  },
+  {
+    "batch": "B005",
+    "review_id": "R0045",
+    "url": "https://lemu0337.github.io/student-handout-review/R0045.png",
+    "sha256": "e64a7d9cfe1408d595b000f2a52183d723de8696b13e0aa9102799bb6d14625c",
+    "bytes": 3325324
+  },
+  {
+    "batch": "B005",
+    "review_id": "R0046",
+    "url": "https://lemu0337.github.io/student-handout-review/R0046.png",
+    "sha256": "8ca805c09abf14ff3cb151e5f555cae52e3c7f569c45f08bc10ac9c99021c210",
+    "bytes": 3304932
+  },
+  {
+    "batch": "B005",
+    "review_id": "R0047",
+    "url": "https://lemu0337.github.io/student-handout-review/R0047.png",
+    "sha256": "7eba51792c0f3bd8bf8805d34864e3c0840806ce7e16cc43eedd00f7e48e4294",
+    "bytes": 3726321
+  },
+  {
+    "batch": "B005",
+    "review_id": "R0048",
+    "url": "https://lemu0337.github.io/student-handout-review/R0048.png",
+    "sha256": "4776289180c822e4aa24c07ddf0bbc11885b4dd574141ef147fb143b1acd9e75",
+    "bytes": 3648669
+  },
+  {
+    "batch": "B005",
+    "review_id": "R0049",
+    "url": "https://lemu0337.github.io/student-handout-review/R0049.png",
+    "sha256": "01ccb57bdf548c87e133deb44e20a61f7cb763d017de70509cf986106914465e",
+    "bytes": 3673688
+  },
+  {
+    "batch": "B005",
+    "review_id": "R0050",
+    "url": "https://lemu0337.github.io/student-handout-review/R0050.png",
+    "sha256": "810b11d8b498bb171ae7efc6168a54986da3fd7e1803ecfc2435a5c49fbb7474",
+    "bytes": 4043212
+  },
+  {
+    "batch": "B006",
+    "review_id": "R0051",
+    "url": "https://lemu0337.github.io/student-handout-review/R0051.png",
+    "sha256": "7091b2de9992c6726d9f9500fadeb490542a2f95be46af8c2f01781d51ca0752",
+    "bytes": 3832992
+  },
+  {
+    "batch": "B006",
+    "review_id": "R0052",
+    "url": "https://lemu0337.github.io/student-handout-review/R0052.png",
+    "sha256": "080759d79e3ede90cab06ee075bac76564688dab393d968a670cead00bd631af",
+    "bytes": 3743627
+  },
+  {
+    "batch": "B006",
+    "review_id": "R0053",
+    "url": "https://lemu0337.github.io/student-handout-review/R0053.png",
+    "sha256": "85eedaa71ab72bb9349c3665a571679e17e54052180968870fc0233acb993791",
+    "bytes": 3508976
+  },
+  {
+    "batch": "B006",
+    "review_id": "R0054",
+    "url": "https://lemu0337.github.io/student-handout-review/R0054.png",
+    "sha256": "3240079bb01a0df002362beef99d402fc6a3e79e24a015c3d2d5434b1cafb9e1",
+    "bytes": 4066769
+  },
+  {
+    "batch": "B006",
+    "review_id": "R0055",
+    "url": "https://lemu0337.github.io/student-handout-review/R0055.png",
+    "sha256": "061f564419e4400dc670b06552956234552b1d1c4417f25a69454199ab6fbcf1",
+    "bytes": 2860764
+  },
+  {
+    "batch": "B006",
+    "review_id": "R0056",
+    "url": "https://lemu0337.github.io/student-handout-review/R0056.png",
+    "sha256": "9c558822df221f041a87762c7e5b8886d0f006b4a4b86c488039ef33b5268002",
+    "bytes": 3383520
+  },
+  {
+    "batch": "B006",
+    "review_id": "R0057",
+    "url": "https://lemu0337.github.io/student-handout-review/R0057.png",
+    "sha256": "8a34088024c241377d508e45ecbb30ff88e1ce30f9f47ce78bfc16e3eafae4cf",
+    "bytes": 3385120
+  },
+  {
+    "batch": "B006",
+    "review_id": "R0058",
+    "url": "https://lemu0337.github.io/student-handout-review/R0058.png",
+    "sha256": "f9704aa0e23d693c3c36331972963673fc97771bca3794391fe112fd221c44a7",
+    "bytes": 3368108
+  },
+  {
+    "batch": "B006",
+    "review_id": "R0059",
+    "url": "https://lemu0337.github.io/student-handout-review/R0059.png",
+    "sha256": "3ca0a4c5fb56c3af4dd83936de5d4b729efe55d378b455407abc3654f6f21306",
+    "bytes": 3432876
+  },
+  {
+    "batch": "B006",
+    "review_id": "R0060",
+    "url": "https://lemu0337.github.io/student-handout-review/R0060.png",
+    "sha256": "29b380f7efde36a532afc15a4a1f41abb1c8e169b0eeb2cdfafcfb0f30114f15",
+    "bytes": 3217889
+  },
+  {
+    "batch": "B007",
+    "review_id": "R0061",
+    "url": "https://lemu0337.github.io/student-handout-review/R0061.png",
+    "sha256": "a7d62d4870b26f443ce479f4af2b79dc4de4fd10132df07451360574df66ce0c",
+    "bytes": 3130084
+  },
+  {
+    "batch": "B007",
+    "review_id": "R0062",
+    "url": "https://lemu0337.github.io/student-handout-review/R0062.png",
+    "sha256": "8fb7b60afc681843cadae7df8c0ef8bd2d6c93dd04453aff5e8b4fccc5341459",
+    "bytes": 3463653
+  },
+  {
+    "batch": "B007",
+    "review_id": "R0063",
+    "url": "https://lemu0337.github.io/student-handout-review/R0063.png",
+    "sha256": "2e48a308fb7e42d497b332e9fb61eeae990049f73fb175f43d7a6373168bc3f4",
+    "bytes": 3491358
+  },
+  {
+    "batch": "B007",
+    "review_id": "R0064",
+    "url": "https://lemu0337.github.io/student-handout-review/R0064.png",
+    "sha256": "8db24e820290dcb7860ffa8e9c2b1af9fcac55b6c51ed26321f8ba82852d9929",
+    "bytes": 3397838
+  },
+  {
+    "batch": "B007",
+    "review_id": "R0065",
+    "url": "https://lemu0337.github.io/student-handout-review/R0065.png",
+    "sha256": "ff78850fdb743beb48825fef849dcc394566eb02613d35eff285efb629845d24",
+    "bytes": 3889236
+  },
+  {
+    "batch": "B007",
+    "review_id": "R0066",
+    "url": "https://lemu0337.github.io/student-handout-review/R0066.png",
+    "sha256": "aba66d5b3c5fedb4d4bb3eb4cbfb078a9b4ad1ef60536221227fb43b5743e8f1",
+    "bytes": 3743854
+  },
+  {
+    "batch": "B007",
+    "review_id": "R0067",
+    "url": "https://lemu0337.github.io/student-handout-review/R0067.png",
+    "sha256": "aa65de1958f56e479d8f9a6f57e6779bf9ab3c6ccfb9252c94cec5e98387fb88",
+    "bytes": 3783447
+  },
+  {
+    "batch": "B007",
+    "review_id": "R0068",
+    "url": "https://lemu0337.github.io/student-handout-review/R0068.png",
+    "sha256": "da68433796bae3f00b70b6141a79d68211d90e6e752bc48360f54500291d02ca",
+    "bytes": 3837112
+  },
+  {
+    "batch": "B007",
+    "review_id": "R0069",
+    "url": "https://lemu0337.github.io/student-handout-review/R0069.png",
+    "sha256": "6a5dd5d68c3720e9f9e07f6e95dea395c740807b3711e55d1b20c6e788b96719",
+    "bytes": 4313437
+  },
+  {
+    "batch": "B007",
+    "review_id": "R0070",
+    "url": "https://lemu0337.github.io/student-handout-review/R0070.png",
+    "sha256": "f990ac94460d98959d1f43f7f105b3c977774c26a37ce80fc927ca026a81dd78",
+    "bytes": 2916199
+  },
+  {
+    "batch": "B008",
+    "review_id": "R0071",
+    "url": "https://lemu0337.github.io/student-handout-review/R0071.png",
+    "sha256": "97c31024ee9306b1d20dfbe9e09238136be31b12f19545b82e680d11eb034d2f",
+    "bytes": 3515150
+  },
+  {
+    "batch": "B008",
+    "review_id": "R0072",
+    "url": "https://lemu0337.github.io/student-handout-review/R0072.png",
+    "sha256": "d538b48ece602522cd835a80bd3531a57a8e884d9136959e29abe3ca5b91ee1b",
+    "bytes": 3833972
+  },
+  {
+    "batch": "B008",
+    "review_id": "R0073",
+    "url": "https://lemu0337.github.io/student-handout-review/R0073.png",
+    "sha256": "1d473490861f42a9d3592867ad2ac1ca4847845c69806db8a66e38cf5b8d20f9",
+    "bytes": 3646510
+  },
+  {
+    "batch": "B008",
+    "review_id": "R0074",
+    "url": "https://lemu0337.github.io/student-handout-review/R0074.png",
+    "sha256": "8d5e86eb1b77791bad53f485fe1e513c333ad3cc4833feae24cd1e0fc3987eb8",
+    "bytes": 2982637
+  },
+  {
+    "batch": "B008",
+    "review_id": "R0075",
+    "url": "https://lemu0337.github.io/student-handout-review/R0075.png",
+    "sha256": "29ede84de4026db4b4e342f5bc65e97ccce1b038108a94432bc28ad0016c4e3d",
+    "bytes": 2768541
+  },
+  {
+    "batch": "B008",
+    "review_id": "R0076",
+    "url": "https://lemu0337.github.io/student-handout-review/R0076.png",
+    "sha256": "2cf1801f6a55f234b2cae72e64c0b26f5356cb7f6e5f27a2c9f9178323f366a0",
+    "bytes": 3532493
+  },
+  {
+    "batch": "B008",
+    "review_id": "R0077",
+    "url": "https://lemu0337.github.io/student-handout-review/R0077.png",
+    "sha256": "48f5fbdb70672bae2625035b1d718b161709c36e016f4e175b7827cae79cb8a5",
+    "bytes": 3718619
+  },
+  {
+    "batch": "B008",
+    "review_id": "R0078",
+    "url": "https://lemu0337.github.io/student-handout-review/R0078.png",
+    "sha256": "675343ee037ff7a7bfa30fcab8187d1dbcfbebd9c4c0a0541483130b8ca61570",
+    "bytes": 2266853
+  },
+  {
+    "batch": "B008",
+    "review_id": "R0079",
+    "url": "https://lemu0337.github.io/student-handout-review/R0079.png",
+    "sha256": "88a4e7cb7df2bb8ffa9797b976ebaef3a1e170587000b6a1413c3be95b8439a0",
+    "bytes": 2476376
+  },
+  {
+    "batch": "B008",
+    "review_id": "R0080",
+    "url": "https://lemu0337.github.io/student-handout-review/R0080.png",
+    "sha256": "19252a2e90927c6590578a46c0a64a46e14ba03dd0b2f17f98f75e4aadf16bb1",
+    "bytes": 2862010
+  },
+  {
+    "batch": "B009",
+    "review_id": "R0081",
+    "url": "https://lemu0337.github.io/student-handout-review/R0081.png",
+    "sha256": "bef2717c8131c44083971a829f97bd1c1b9d5aed6da9be143407fec10ec8e989",
+    "bytes": 2590582
+  },
+  {
+    "batch": "B009",
+    "review_id": "R0082",
+    "url": "https://lemu0337.github.io/student-handout-review/R0082.png",
+    "sha256": "ddd7c613784fac74d922f40be53161ca9d1881b4b99519d959641f0b30fc576f",
+    "bytes": 3364321
+  },
+  {
+    "batch": "B009",
+    "review_id": "R0083",
+    "url": "https://lemu0337.github.io/student-handout-review/R0083.png",
+    "sha256": "01ba9a6afedf711e10564a4007998cccb8bb65deda2edc91307be2a76637732d",
+    "bytes": 3326755
+  },
+  {
+    "batch": "B009",
+    "review_id": "R0084",
+    "url": "https://lemu0337.github.io/student-handout-review/R0084.png",
+    "sha256": "ca2b4a29ce4169a5d10ade17e2ac049f8de181fce68b3d84f00f5a5efec7bf23",
+    "bytes": 3539953
+  },
+  {
+    "batch": "B009",
+    "review_id": "R0085",
+    "url": "https://lemu0337.github.io/student-handout-review/R0085.png",
+    "sha256": "e84ccec752702ce3d25981b1744a7224b20cafda5c4605c86bd58005f5721474",
+    "bytes": 2280990
+  },
+  {
+    "batch": "B009",
+    "review_id": "R0086",
+    "url": "https://lemu0337.github.io/student-handout-review/R0086.png",
+    "sha256": "4dfbf3a127f48c3fd3cb914fbfdc1ebda8ecf0879f4b368502d3a05b39daa368",
+    "bytes": 2572925
+  },
+  {
+    "batch": "B009",
+    "review_id": "R0087",
+    "url": "https://lemu0337.github.io/student-handout-review/R0087.png",
+    "sha256": "22e5cf71b82c6757edb2b06a3c2758e04b1a15ade534f1c12e21983c6bdef955",
+    "bytes": 2519012
+  },
+  {
+    "batch": "B009",
+    "review_id": "R0088",
+    "url": "https://lemu0337.github.io/student-handout-review/R0088.png",
+    "sha256": "9c71401c0c30ed6b0435d3946bb8957c0d2f0ab84ebff8e36187e9f07a40201d",
+    "bytes": 3278935
+  },
+  {
+    "batch": "B009",
+    "review_id": "R0089",
+    "url": "https://lemu0337.github.io/student-handout-review/R0089.png",
+    "sha256": "de327d503521ad6f07b94dcd405bbce8c56e7e74bb223057cde4620d8d46c358",
+    "bytes": 3060926
+  },
+  {
+    "batch": "B009",
+    "review_id": "R0090",
+    "url": "https://lemu0337.github.io/student-handout-review/R0090.png",
+    "sha256": "e96b8de451a0df0809ee3dd4cf7b979b45b5a7909cdcd37f7db6d859ed396352",
+    "bytes": 1639943
+  },
+  {
+    "batch": "B010",
+    "review_id": "R0091",
+    "url": "https://lemu0337.github.io/student-handout-review/R0091.png",
+    "sha256": "ec712cf7dbd8ada98dd16c56e6d716583d7d10163b141b6defc0c5037e90ef5b",
+    "bytes": 2304959
+  },
+  {
+    "batch": "B010",
+    "review_id": "R0092",
+    "url": "https://lemu0337.github.io/student-handout-review/R0092.png",
+    "sha256": "7aae3d462b15ade84832ae1883824cdc69db98a4da78f6da804c07f6bbf40cdb",
+    "bytes": 3204578
+  },
+  {
+    "batch": "B010",
+    "review_id": "R0093",
+    "url": "https://lemu0337.github.io/student-handout-review/R0093.png",
+    "sha256": "4eacbcd2989a8f05c65c47ace30a763850a67c1698e11b0abac0f1f349097045",
+    "bytes": 2724484
+  },
+  {
+    "batch": "B010",
+    "review_id": "R0094",
+    "url": "https://lemu0337.github.io/student-handout-review/R0094.png",
+    "sha256": "e6cf777e46c56a83a60a7b03e9ed2fe5bd9814fb261260591225c2f141d5c0a2",
+    "bytes": 3693368
+  },
+  {
+    "batch": "B010",
+    "review_id": "R0095",
+    "url": "https://lemu0337.github.io/student-handout-review/R0095.png",
+    "sha256": "63588947511c68c508e4eb2845582f3b90424dfef2d95d39b3ff80a95c324e08",
+    "bytes": 3837749
+  },
+  {
+    "batch": "B010",
+    "review_id": "R0096",
+    "url": "https://lemu0337.github.io/student-handout-review/R0096.png",
+    "sha256": "79c5085efc163a768a480f72e53a9e3526d5ef2a0ed5ccba7391282a65a0b7b0",
+    "bytes": 3578903
+  },
+  {
+    "batch": "B010",
+    "review_id": "R0097",
+    "url": "https://lemu0337.github.io/student-handout-review/R0097.png",
+    "sha256": "eb4759a96543fe8a179f552e08545fa0b95954492bfbbfff94701d178cefd894",
+    "bytes": 3145680
+  },
+  {
+    "batch": "B010",
+    "review_id": "R0098",
+    "url": "https://lemu0337.github.io/student-handout-review/R0098.png",
+    "sha256": "43989b18fd82b72865989eb46701d6f2970c4281627cd96946b545a996b1e160",
+    "bytes": 3810653
+  },
+  {
+    "batch": "B010",
+    "review_id": "R0099",
+    "url": "https://lemu0337.github.io/student-handout-review/R0099.png",
+    "sha256": "945428b50e2c40a97e6d4fbdfa0b93729ffc0fe231613e4ec818f48577422706",
+    "bytes": 4372735
+  },
+  {
+    "batch": "B010",
+    "review_id": "R0100",
+    "url": "https://lemu0337.github.io/student-handout-review/R0100.png",
+    "sha256": "a243b2672e5273fa2ea83fdff75acf5ab66e3de83db77b77d2c266a596443669",
+    "bytes": 4151191
+  },
+  {
+    "batch": "B011",
+    "review_id": "R0101",
+    "url": "https://lemu0337.github.io/student-handout-review/R0101.png",
+    "sha256": "da50d4d22f4f2830fe01293840514e9c66da3ea684b71d10bb6fb29d1952b1e2",
+    "bytes": 4078827
+  },
+  {
+    "batch": "B011",
+    "review_id": "R0102",
+    "url": "https://lemu0337.github.io/student-handout-review/R0102.png",
+    "sha256": "3b0ebe6976476dd32317cc0541fd92eac42b0ad19de38602506622f7d4bb03bb",
+    "bytes": 3614225
+  },
+  {
+    "batch": "B011",
+    "review_id": "R0103",
+    "url": "https://lemu0337.github.io/student-handout-review/R0103.png",
+    "sha256": "12978e82a49cd68ca879cd16ff439167c3b84eba0e30f28659bf89e1f349b045",
+    "bytes": 2385680
+  },
+  {
+    "batch": "B011",
+    "review_id": "R0104",
+    "url": "https://lemu0337.github.io/student-handout-review/R0104.png",
+    "sha256": "64b74e533cc5411df90ede37d930c7a731e04d1e1aeb3f89944ec45e35b6eb67",
+    "bytes": 2816861
+  },
+  {
+    "batch": "B011",
+    "review_id": "R0105",
+    "url": "https://lemu0337.github.io/student-handout-review/R0105.png",
+    "sha256": "643392c1fe02ef93ddcfdb7faccb1b052918339f02c2063e9934c2bf295d7fd3",
+    "bytes": 3752615
+  },
+  {
+    "batch": "B011",
+    "review_id": "R0106",
+    "url": "https://lemu0337.github.io/student-handout-review/R0106.png",
+    "sha256": "b0286293f44ccda7a9068305540a92ba3a284a1ffbbf4d8c80186cf37f15e9d2",
+    "bytes": 3643574
+  },
+  {
+    "batch": "B011",
+    "review_id": "R0107",
+    "url": "https://lemu0337.github.io/student-handout-review/R0107.png",
+    "sha256": "ed0959763c0fa55de71f26e1b692a8476369082d811fa90b45f730469f11b74b",
+    "bytes": 3700930
+  },
+  {
+    "batch": "B011",
+    "review_id": "R0108",
+    "url": "https://lemu0337.github.io/student-handout-review/R0108.png",
+    "sha256": "d9e3cfb19e32212300d4d8418938b9478d5782a2cd0fdfa1251eceb075df6169",
+    "bytes": 3985029
+  },
+  {
+    "batch": "B011",
+    "review_id": "R0109",
+    "url": "https://lemu0337.github.io/student-handout-review/R0109.png",
+    "sha256": "a276f4bc20d6ba24daa1845093fcd0b29c95c4c1b02f08ecc0254f4963f8fbb4",
+    "bytes": 3963595
+  },
+  {
+    "batch": "B011",
+    "review_id": "R0110",
+    "url": "https://lemu0337.github.io/student-handout-review/R0110.png",
+    "sha256": "313baec1be8de0f8d7513e8ea210ce5e16f68ac35982d79c4769debef8141cd2",
+    "bytes": 3318345
+  },
+  {
+    "batch": "B012",
+    "review_id": "R0111",
+    "url": "https://lemu0337.github.io/student-handout-review/R0111.png",
+    "sha256": "6fd3c4c0266396113aabf8e6775d7903a640429f6b8e40d005015465f1cf81c6",
+    "bytes": 4473184
+  },
+  {
+    "batch": "B012",
+    "review_id": "R0112",
+    "url": "https://lemu0337.github.io/student-handout-review/R0112.png",
+    "sha256": "97f086fe2c1ab2bd7dde48d9991062fb178d9c3b53e7e25e110d9cbb0a0e7ae1",
+    "bytes": 4377884
+  },
+  {
+    "batch": "B012",
+    "review_id": "R0113",
+    "url": "https://lemu0337.github.io/student-handout-review/R0113.png",
+    "sha256": "35970a6dd250296e82e8c47dbd1be644a9eba7c30e0b6eef9cc7c22f27d5e24b",
+    "bytes": 3626693
+  },
+  {
+    "batch": "B012",
+    "review_id": "R0114",
+    "url": "https://lemu0337.github.io/student-handout-review/R0114.png",
+    "sha256": "0ff4131d58571b02c51ec32cbb7f282958fe00be98563ec70b1cf541f1566f66",
+    "bytes": 3587871
+  },
+  {
+    "batch": "B012",
+    "review_id": "R0115",
+    "url": "https://lemu0337.github.io/student-handout-review/R0115.png",
+    "sha256": "aeb1fe2210bd91e4166dfa77c118dbf0e2497e310422201b59b117271ac05061",
+    "bytes": 4639185
+  },
+  {
+    "batch": "B012",
+    "review_id": "R0116",
+    "url": "https://lemu0337.github.io/student-handout-review/R0116.png",
+    "sha256": "963c23e9fde79f7c6b62f30f022f17fcb10081e6fb834c0f147f5b21a6ea4435",
+    "bytes": 1890033
+  },
+  {
+    "batch": "B012",
+    "review_id": "R0117",
+    "url": "https://lemu0337.github.io/student-handout-review/R0117.png",
+    "sha256": "0a158ff2157eaaf7f828a720d221d6109f049d4814f63e85d74b9c7e2afa9d84",
+    "bytes": 3841449
+  },
+  {
+    "batch": "B012",
+    "review_id": "R0118",
+    "url": "https://lemu0337.github.io/student-handout-review/R0118.png",
+    "sha256": "ab59378aa46f95209141b9fa68cf66c9dcdabece7513625761e5bbba3eb0e476",
+    "bytes": 3297709
+  },
+  {
+    "batch": "B012",
+    "review_id": "R0119",
+    "url": "https://lemu0337.github.io/student-handout-review/R0119.png",
+    "sha256": "d5bafa3eb62d776d8df342f261b569be9c706f448bcdccd0fa41581f8a3c57d7",
+    "bytes": 4443896
+  },
+  {
+    "batch": "B012",
+    "review_id": "R0120",
+    "url": "https://lemu0337.github.io/student-handout-review/R0120.png",
+    "sha256": "73753f344dec9fcc7d1d27252722035a8feb3f6a9a9ee1369c444ff7d0bf81a6",
+    "bytes": 5148256
+  },
+  {
+    "batch": "B013",
+    "review_id": "R0121",
+    "url": "https://lemu0337.github.io/student-handout-review/R0121.png",
+    "sha256": "42a1d6eb3de3dd47f5910be22fbd509525f06136e06aa13066f1d34f1898d958",
+    "bytes": 4702555
+  },
+  {
+    "batch": "B013",
+    "review_id": "R0122",
+    "url": "https://lemu0337.github.io/student-handout-review/R0122.png",
+    "sha256": "a77b21d6f6af2fdb8b19b2b2dd2c0fa3576f872acba7620adb3913477c9babd7",
+    "bytes": 4778521
+  },
+  {
+    "batch": "B013",
+    "review_id": "R0123",
+    "url": "https://lemu0337.github.io/student-handout-review/R0123.png",
+    "sha256": "0fa9088c454fad05535b6a4d55f6ae63effafe49c8559deab87acd6a679567e2",
+    "bytes": 4286546
+  },
+  {
+    "batch": "B013",
+    "review_id": "R0124",
+    "url": "https://lemu0337.github.io/student-handout-review/R0124.png",
+    "sha256": "2f2c4aabafe3c15e9a4520f68905e9d1f11cd9f696a49514ef5792a0296568d6",
+    "bytes": 2374409
+  },
+  {
+    "batch": "B013",
+    "review_id": "R0125",
+    "url": "https://lemu0337.github.io/student-handout-review/R0125.png",
+    "sha256": "33f757a7e3a8d0b0932ec1b54236be5c7323b7f4c768e8f700f388a929570c9b",
+    "bytes": 2961730
+  },
+  {
+    "batch": "B013",
+    "review_id": "R0126",
+    "url": "https://lemu0337.github.io/student-handout-review/R0126.png",
+    "sha256": "a97509ad106ac5b67ad52de26add7c5d7f8be001d249080b022ffb94f2c9db03",
+    "bytes": 3953135
+  },
+  {
+    "batch": "B013",
+    "review_id": "R0127",
+    "url": "https://lemu0337.github.io/student-handout-review/R0127.png",
+    "sha256": "49bf6f0d7b1ec971037007f3ae08decd153d1f190be629cb37cfa444b6a86526",
+    "bytes": 3890602
+  },
+  {
+    "batch": "B013",
+    "review_id": "R0128",
+    "url": "https://lemu0337.github.io/student-handout-review/R0128.png",
+    "sha256": "afeac9a6e67f0f013967265580dd3e4344411d6efa12669b76d7712ea1a0740e",
+    "bytes": 3788415
+  },
+  {
+    "batch": "B013",
+    "review_id": "R0129",
+    "url": "https://lemu0337.github.io/student-handout-review/R0129.png",
+    "sha256": "c1644eaecd22915853e0714720c15f7864d055667afe31d8f86705722f58a3ff",
+    "bytes": 4560042
+  },
+  {
+    "batch": "B013",
+    "review_id": "R0130",
+    "url": "https://lemu0337.github.io/student-handout-review/R0130.png",
+    "sha256": "9f76bb191d89ae839048b5778563d27ee97e959d76c3022e3bcf9db35c338c1f",
+    "bytes": 3961495
+  },
+  {
+    "batch": "B014",
+    "review_id": "R0131",
+    "url": "https://lemu0337.github.io/student-handout-review/R0131.png",
+    "sha256": "7c6f3ce044be586ce03b4298dd59b2efffea141e9a36eae5506a85f87c9b8506",
+    "bytes": 4002110
+  },
+  {
+    "batch": "B014",
+    "review_id": "R0132",
+    "url": "https://lemu0337.github.io/student-handout-review/R0132.png",
+    "sha256": "7404c47c1c2971048efabc9a75ee9ba248f0150ad79dc4585bd03a5153a41eda",
+    "bytes": 4568562
+  },
+  {
+    "batch": "B014",
+    "review_id": "R0133",
+    "url": "https://lemu0337.github.io/student-handout-review/R0133.png",
+    "sha256": "a89eb324bd875013433b90ff3b62bce35235415a72b5cf3c36f752168a5b7f14",
+    "bytes": 3926317
+  },
+  {
+    "batch": "B014",
+    "review_id": "R0134",
+    "url": "https://lemu0337.github.io/student-handout-review/R0134.png",
+    "sha256": "802e40edc0dd801c6acbbfa1a31472f655f502821407824dbc9facd2eb219bb2",
+    "bytes": 3645111
+  },
+  {
+    "batch": "B014",
+    "review_id": "R0135",
+    "url": "https://lemu0337.github.io/student-handout-review/R0135.png",
+    "sha256": "b6bfc6e3f1da0d8eae348f801afc5af0153e0debb7bdbd1b9837c996781f591e",
+    "bytes": 3997053
+  },
+  {
+    "batch": "B014",
+    "review_id": "R0136",
+    "url": "https://lemu0337.github.io/student-handout-review/R0136.png",
+    "sha256": "8524c5b426b0b861f6faa0edb4a6e563047812a3ed5783cc2a27ab19878f1241",
+    "bytes": 4585751
+  },
+  {
+    "batch": "B014",
+    "review_id": "R0137",
+    "url": "https://lemu0337.github.io/student-handout-review/R0137.png",
+    "sha256": "7707a03420950bc6af5d1165c807410a5d91effbe7596b368c3eac0d26adee63",
+    "bytes": 4221590
+  },
+  {
+    "batch": "B014",
+    "review_id": "R0138",
+    "url": "https://lemu0337.github.io/student-handout-review/R0138.png",
+    "sha256": "835473de721dee97ca7cf0db1f927ab5daaa0964a31b4e5a92859fd56a20d34a",
+    "bytes": 4197586
+  },
+  {
+    "batch": "B014",
+    "review_id": "R0139",
+    "url": "https://lemu0337.github.io/student-handout-review/R0139.png",
+    "sha256": "4a79c8c320f8e15e31fc4b8fc27c21888145f7fbd0fa338cc5484d6762908915",
+    "bytes": 4043858
+  },
+  {
+    "batch": "B014",
+    "review_id": "R0140",
+    "url": "https://lemu0337.github.io/student-handout-review/R0140.png",
+    "sha256": "e2b1d141e3c41dc225ff284516823b07f54693b5e5eacafcc5e7ca05de92b396",
+    "bytes": 3830656
+  },
+  {
+    "batch": "B015",
+    "review_id": "R0141",
+    "url": "https://lemu0337.github.io/student-handout-review/R0141.png",
+    "sha256": "800c42a8ba8901f8fb402fd15830bdaebb2c68105211b36d4f22d53576589ad2",
+    "bytes": 4024647
+  },
+  {
+    "batch": "B015",
+    "review_id": "R0142",
+    "url": "https://lemu0337.github.io/student-handout-review/R0142.png",
+    "sha256": "f7d88b1d49e753e2f85b69cba24ef1f16c7f0d7ecaebe25fed1e0cb0331e48b8",
+    "bytes": 3928086
+  },
+  {
+    "batch": "B015",
+    "review_id": "R0143",
+    "url": "https://lemu0337.github.io/student-handout-review/R0143.png",
+    "sha256": "846494dc9dbc1012c77f895b2a86f2f6b8e00c0391ad01054f9b9a0f8b84c5b8",
+    "bytes": 3422354
+  },
+  {
+    "batch": "B015",
+    "review_id": "R0144",
+    "url": "https://lemu0337.github.io/student-handout-review/R0144.png",
+    "sha256": "9b01e26dd041da89995577dc15aca06732946df3bc410f9ad2310e2b5d65ea1a",
+    "bytes": 3954270
+  },
+  {
+    "batch": "B015",
+    "review_id": "R0145",
+    "url": "https://lemu0337.github.io/student-handout-review/R0145.png",
+    "sha256": "93c93cafe75c9e4e0b22ab0ae508fc5ebff4d0876e7a0b632e0a3419d0412185",
+    "bytes": 3641243
+  },
+  {
+    "batch": "B015",
+    "review_id": "R0146",
+    "url": "https://lemu0337.github.io/student-handout-review/R0146.png",
+    "sha256": "980fed7f55b7476f8ed2b16ab34e62163d2e59b7f1856685d0ce0a052bb0e92b",
+    "bytes": 3882131
+  },
+  {
+    "batch": "B015",
+    "review_id": "R0147",
+    "url": "https://lemu0337.github.io/student-handout-review/R0147.png",
+    "sha256": "ce49f14d41740851269abb4d68b0486a64b104ad87d66e6052e67f45b49ee7fe",
+    "bytes": 3290346
+  },
+  {
+    "batch": "B015",
+    "review_id": "R0148",
+    "url": "https://lemu0337.github.io/student-handout-review/R0148.png",
+    "sha256": "4d40ecaaf6a14580f7fe45a6a855f7e74dd235db5d51f7869a784ed3aa92763d",
+    "bytes": 4148725
+  },
+  {
+    "batch": "B015",
+    "review_id": "R0149",
+    "url": "https://lemu0337.github.io/student-handout-review/R0149.png",
+    "sha256": "7e2fa35f1c0a2ae92567b54e48ae2572c298a270ccea63652c28945a4e331d2a",
+    "bytes": 2634627
+  },
+  {
+    "batch": "B015",
+    "review_id": "R0150",
+    "url": "https://lemu0337.github.io/student-handout-review/R0150.png",
+    "sha256": "b09fb41448eae4002ef85eefa0145f77480ad7eae23038855b75a1f612adc3a8",
+    "bytes": 4304091
+  },
+  {
+    "batch": "B016",
+    "review_id": "R0151",
+    "url": "https://lemu0337.github.io/student-handout-review/R0151.png",
+    "sha256": "a1cc2b80e482c8c8320034ddb19bdab0085c006f616840921da02fb6363a48dd",
+    "bytes": 2097573
+  },
+  {
+    "batch": "B016",
+    "review_id": "R0152",
+    "url": "https://lemu0337.github.io/student-handout-review/R0152.png",
+    "sha256": "a1ddf9a15bacd099e9f53f947817721b55b03036955a21a616ce3eee416c5b1d",
+    "bytes": 3729260
+  },
+  {
+    "batch": "B016",
+    "review_id": "R0153",
+    "url": "https://lemu0337.github.io/student-handout-review/R0153.png",
+    "sha256": "8e42062ffb24e0d00273217808f7f117254d5a377aff28468764bd53222b14c8",
+    "bytes": 2644303
+  },
+  {
+    "batch": "B016",
+    "review_id": "R0154",
+    "url": "https://lemu0337.github.io/student-handout-review/R0154.png",
+    "sha256": "13c8c1084545b3881c73479ea98d299934572d91a82c2ffa25c55e1d16ba817d",
+    "bytes": 3533987
+  },
+  {
+    "batch": "B016",
+    "review_id": "R0155",
+    "url": "https://lemu0337.github.io/student-handout-review/R0155.png",
+    "sha256": "ac912823a3bdf745ba6671d7b923aed0cf53c71bfbad6faac8f2598885b16f32",
+    "bytes": 3834828
+  },
+  {
+    "batch": "B016",
+    "review_id": "R0156",
+    "url": "https://lemu0337.github.io/student-handout-review/R0156.png",
+    "sha256": "fad039199246baca107bf2a17cf5eb6469c5d4a4f107dc0450fdf44dda754a96",
+    "bytes": 3507589
+  },
+  {
+    "batch": "B016",
+    "review_id": "R0157",
+    "url": "https://lemu0337.github.io/student-handout-review/R0157.png",
+    "sha256": "cf925a9322949d2995aa113eb0ed5f3cc8527332cebbc2953b44a6bfa4c85f0d",
+    "bytes": 5509307
+  },
+  {
+    "batch": "B016",
+    "review_id": "R0158",
+    "url": "https://lemu0337.github.io/student-handout-review/R0158.png",
+    "sha256": "d5fdd4fa8ec4682fba6b843f0787514d656498ff2e1130d4b9fb1b87ca0f0f17",
+    "bytes": 6077342
+  },
+  {
+    "batch": "B016",
+    "review_id": "R0159",
+    "url": "https://lemu0337.github.io/student-handout-review/R0159.png",
+    "sha256": "3d985cb652d765bd93c14bed539621087a7bbc653ae67fdd91fad8ee370b8ac2",
+    "bytes": 6651438
+  },
+  {
+    "batch": "B016",
+    "review_id": "R0160",
+    "url": "https://lemu0337.github.io/student-handout-review/R0160.png",
+    "sha256": "23b2f68e04ea4582608b7019610f8d27278d0e810c1b63e4b2192027a66083dd",
+    "bytes": 5860974
+  },
+  {
+    "batch": "B017",
+    "review_id": "R0161",
+    "url": "https://lemu0337.github.io/student-handout-review/R0161.png",
+    "sha256": "f8ab5cbaa495e7e8eee20879ff6dd6b56908d2c8293816acf74878605b986f69",
+    "bytes": 5153652
+  },
+  {
+    "batch": "B017",
+    "review_id": "R0162",
+    "url": "https://lemu0337.github.io/student-handout-review/R0162.png",
+    "sha256": "b454186676e77fd0db184f784eff83b40e77e7fdd0bda243a5167fccbfa606b1",
+    "bytes": 5221134
+  },
+  {
+    "batch": "B017",
+    "review_id": "R0163",
+    "url": "https://lemu0337.github.io/student-handout-review/R0163.png",
+    "sha256": "3597b363255ba541cd1ca305c1aa011b42abe8dca966ee7e75e86a085b3f0b98",
+    "bytes": 5297442
+  },
+  {
+    "batch": "B017",
+    "review_id": "R0164",
+    "url": "https://lemu0337.github.io/student-handout-review/R0164.png",
+    "sha256": "5d785a54c27d82cdf1044fd5ccffbef1221ed82e4602f642db506a2c5c9093eb",
+    "bytes": 4780885
+  },
+  {
+    "batch": "B017",
+    "review_id": "R0165",
+    "url": "https://lemu0337.github.io/student-handout-review/R0165.png",
+    "sha256": "742a81dae20a70762f2f95f9f3ca7f513a0965b4bd744d74c852323e430295d4",
+    "bytes": 4461318
+  },
+  {
+    "batch": "B017",
+    "review_id": "R0166",
+    "url": "https://lemu0337.github.io/student-handout-review/R0166.png",
+    "sha256": "ac6711cfb9bed56357b52cbdaf9366cc44e234510b481f556f1d4352a06329cc",
+    "bytes": 4428103
+  },
+  {
+    "batch": "B017",
+    "review_id": "R0167",
+    "url": "https://lemu0337.github.io/student-handout-review/R0167.png",
+    "sha256": "a8bd1f1c9517cb1118071649c121f7eed8f4d6cd4eb427110f74ddd21d9e76e3",
+    "bytes": 4397961
+  },
+  {
+    "batch": "B017",
+    "review_id": "R0168",
+    "url": "https://lemu0337.github.io/student-handout-review/R0168.png",
+    "sha256": "1719d235a47a239de85ef4f928529390ca605cdeeb84c386111b6cf28c839c65",
+    "bytes": 3288364
+  },
+  {
+    "batch": "B017",
+    "review_id": "R0169",
+    "url": "https://lemu0337.github.io/student-handout-review/R0169.png",
+    "sha256": "debc2372fa1e84bd7dff5249c22644f60b5bcf56f213b11eb655f57588eb8b19",
+    "bytes": 6307477
+  },
+  {
+    "batch": "B017",
+    "review_id": "R0170",
+    "url": "https://lemu0337.github.io/student-handout-review/R0170.png",
+    "sha256": "6b0a3e26b722e1caba5b802e466fe3f842771f052fa2765eee5d969a28ba1ac6",
+    "bytes": 5936312
+  },
+  {
+    "batch": "B018",
+    "review_id": "R0171",
+    "url": "https://lemu0337.github.io/student-handout-review/R0171.png",
+    "sha256": "b5da1988b8c0fe47522285eeb964780c00b9a6a371ba554a477cba3d79ceac2b",
+    "bytes": 4374343
+  },
+  {
+    "batch": "B018",
+    "review_id": "R0172",
+    "url": "https://lemu0337.github.io/student-handout-review/R0172.png",
+    "sha256": "bd7d61af62e164ba13fc01536d637c11f123d41d1f923fab29b7dceb6a31b98b",
+    "bytes": 3983885
+  },
+  {
+    "batch": "B018",
+    "review_id": "R0173",
+    "url": "https://lemu0337.github.io/student-handout-review/R0173.png",
+    "sha256": "3b47f9500f591f8ad8fde9c81f6a64b1378e2e58a64d75755da6766bbb88369d",
+    "bytes": 4602187
+  },
+  {
+    "batch": "B018",
+    "review_id": "R0174",
+    "url": "https://lemu0337.github.io/student-handout-review/R0174.png",
+    "sha256": "886e7062b7225394dc8718fd7fa9e7cd4be1b61cc4951f87514091903a9dbb20",
+    "bytes": 4734134
+  },
+  {
+    "batch": "B018",
+    "review_id": "R0175",
+    "url": "https://lemu0337.github.io/student-handout-review/R0175.png",
+    "sha256": "00f05de4261f2661ba0a370f092752f294ba7ef5cda0e43f69380522753c56ed",
+    "bytes": 5211094
+  },
+  {
+    "batch": "B018",
+    "review_id": "R0176",
+    "url": "https://lemu0337.github.io/student-handout-review/R0176.png",
+    "sha256": "3936a256a1867538935eef6560d0836bd67d391a3157030e4bbb3d6317bd9a7a",
+    "bytes": 6127269
+  },
+  {
+    "batch": "B018",
+    "review_id": "R0177",
+    "url": "https://lemu0337.github.io/student-handout-review/R0177.png",
+    "sha256": "31093f04f59edc6c3601e794694f349fccfccf904e70f0c54145b0eedf29b9cd",
+    "bytes": 5240616
+  },
+  {
+    "batch": "B018",
+    "review_id": "R0178",
+    "url": "https://lemu0337.github.io/student-handout-review/R0178.png",
+    "sha256": "f3fe0a2ef9ec2d07482686b7985e2bc7eaedfe5d5ca07f1d172a68cfe8e71555",
+    "bytes": 5320433
+  },
+  {
+    "batch": "B018",
+    "review_id": "R0179",
+    "url": "https://lemu0337.github.io/student-handout-review/R0179.png",
+    "sha256": "4a45d221f93f81efd91888ff18f674d5aed03adfca07a7cf3ca496a8c3b3920f",
+    "bytes": 5259251
+  },
+  {
+    "batch": "B018",
+    "review_id": "R0180",
+    "url": "https://lemu0337.github.io/student-handout-review/R0180.png",
+    "sha256": "3caba433c57fbee880831e7777b82324fe703a169c17f7ae5556b6c8b1844683",
+    "bytes": 4340355
+  },
+  {
+    "batch": "B019",
+    "review_id": "R0181",
+    "url": "https://lemu0337.github.io/student-handout-review/R0181.png",
+    "sha256": "cf14f5325c2eda0a7914b7908de188e236376cacb44730f65e82fa3ee154d233",
+    "bytes": 4760253
+  },
+  {
+    "batch": "B019",
+    "review_id": "R0182",
+    "url": "https://lemu0337.github.io/student-handout-review/R0182.png",
+    "sha256": "f6f26301caf83ae2c7ec3f27e9b574f89f9755c1f3720815f76ae8bf2920c4e7",
+    "bytes": 4593950
+  },
+  {
+    "batch": "B019",
+    "review_id": "R0183",
+    "url": "https://lemu0337.github.io/student-handout-review/R0183.png",
+    "sha256": "213077e7ead9df2e03515def7829938fc7806a04398699d91a5b474d5a48e03f",
+    "bytes": 3521911
+  },
+  {
+    "batch": "B019",
+    "review_id": "R0184",
+    "url": "https://lemu0337.github.io/student-handout-review/R0184.png",
+    "sha256": "c40184cd697693aa9be79e9dbbfb430f4134d4176367f1057e115be0adff3e1c",
+    "bytes": 4209639
+  },
+  {
+    "batch": "B019",
+    "review_id": "R0185",
+    "url": "https://lemu0337.github.io/student-handout-review/R0185.png",
+    "sha256": "a48a96f2e5b390f01dad32d99e781e7ea756b83e981be1c083e429f5452100fc",
+    "bytes": 4272842
+  },
+  {
+    "batch": "B019",
+    "review_id": "R0186",
+    "url": "https://lemu0337.github.io/student-handout-review/R0186.png",
+    "sha256": "32fe1d6f2fe0a6573d174521ef6a3b10feb52b8a8fb566f2d14feacd4f765d8c",
+    "bytes": 4526423
+  },
+  {
+    "batch": "B019",
+    "review_id": "R0187",
+    "url": "https://lemu0337.github.io/student-handout-review/R0187.png",
+    "sha256": "e28790e04f33a2a22bf1ce2b3232287ded2cd81d313c7f29264498f5b7ba8cb0",
+    "bytes": 4420606
+  },
+  {
+    "batch": "B019",
+    "review_id": "R0188",
+    "url": "https://lemu0337.github.io/student-handout-review/R0188.png",
+    "sha256": "a39e4c34ec023f01382edff19aa647e3c4ec913d943467521e891ddc5b7af82f",
+    "bytes": 4507713
+  },
+  {
+    "batch": "B019",
+    "review_id": "R0189",
+    "url": "https://lemu0337.github.io/student-handout-review/R0189.png",
+    "sha256": "21d62048d5d1c15d554cd6d883b86a78b082fb16e185a4b91fd3ba22eba6cd95",
+    "bytes": 6512614
+  },
+  {
+    "batch": "B019",
+    "review_id": "R0190",
+    "url": "https://lemu0337.github.io/student-handout-review/R0190.png",
+    "sha256": "30886baf802073b371cbd4aeb9e5af092add0ea91d831ad956a8ffc5614487de",
+    "bytes": 4211012
+  }
+]
